@@ -22,5 +22,4 @@ The dashboard leverages Vega-Lite's `vconcat` operator to combine five distinct 
 ## How to Run Locally
 Because this project uses static files and native web technologies, no build steps or heavy dependencies are required.
 1. Clone this repository to your local machine.
-2. Ensure both `index.html` and `SalesOrders.csv` are in the same directory.
-3. Open `index.html` in any modern web browser.
+2. Open `index.html` in any modern web browser.
